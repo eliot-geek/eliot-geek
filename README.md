@@ -5,11 +5,11 @@ src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425ad
 
 I am studying for my Master's degree in Applied Mathematics and Computer Science
 
-- Completed my bachelor's degree in Information Security (2018-2022)
-- Engaged in Data Science and Numeric Transformation (2022 - Present)
-- Enrolled as a student at School 21, affiliated with Sberbank (2023 - Present)
-- Engaged as a student with Skillbox, online platform education (2021 - Present)
+- Bachelor's degree in Information Security (2018-2022)
+- Data Science and Numeric Transformation (2022 - Current)
 - Specializing in Backend Development with a focus on .NET/C#
+- Student at School 21, affiliated with Sberbank (2023 - Current)
+- Student at Skillbox, Online Platform Education (2021 - Current)
 
 - 📫 How to reach me **leosarah109@gmail.com**
 
